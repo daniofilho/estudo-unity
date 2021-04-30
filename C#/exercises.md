@@ -1,10 +1,13 @@
-# 1
+### 1. Crie variáveis para representar os seguintes itens:
 
-Crie variáveis para representar os seguintes itens:
 a. Número de vidas
+
 b. Número de moedas
+
 c. Nome
+
 d. Energia
+
 
 ```csharp
   int lifes = 10;
@@ -15,9 +18,7 @@ d. Energia
 
 ---
 
-# 2
-
-Faça uma soma usando os valores inteiros de duas variáveis (valor1 e valor2), coloque o resultado em uma terceira variável (result) e exiba no console seu resultado.
+### 2. Faça uma soma usando os valores inteiros de duas variáveis (valor1 e valor2), coloque o resultado em uma terceira variável (result) e exiba no console seu resultado.
 
 ```csharp
 class Study {
@@ -34,9 +35,7 @@ float energy = 20.5f;
 
 ---
 
-# 3
-
-Crie uma estrutura condicional que exibe a palavra Unity se, e somente se a variável inteira (engine) for maior que 10.
+### 3. Crie uma estrutura condicional que exibe a palavra Unity se, e somente se a variável inteira (engine) for maior que 10.
 
 ```csharp
 class Study {
@@ -53,9 +52,7 @@ class Study {
 
 ---
 
-# 4.
-
-Crie um laço de qualquer tipo que seja capaz de imprimir no console números de 0 (zero) até 10.
+### 4. Crie um laço de qualquer tipo que seja capaz de imprimir no console números de 0 (zero) até 10.
 
 ```csharp
 class Study {
@@ -71,9 +68,7 @@ class Study {
 
 ---
 
-# 5
-
-Crie um vetor para guardar 5 nomes de vilões, depois imprima no console cada um dos nomes.
+### 5. Crie um vetor para guardar 5 nomes de vilões, depois imprima no console cada um dos nomes.
 
 ```csharp
 class Study {
@@ -98,9 +93,7 @@ class Study {
 
 ---
 
-# 6
-
-Crie uma lista contendo 10 elementos de qualquer tipo depois imprima cada elemento no console.
+### 6. Crie uma lista contendo 10 elementos de qualquer tipo depois imprima cada elemento no console.
 
 ```csharp
 class Study {
@@ -123,9 +116,7 @@ class Study {
 
 ---
 
-# 7
-
-Crie uma classe que represente um zumbi, todos seus atributos devem ser públicos.
+### 7. Crie uma classe que represente um zumbi, todos seus atributos devem ser públicos.
 
 ```csharp
 class Zombie {
@@ -144,9 +135,7 @@ class Zombie {
 
 ---
 
-# 8
-
-Crie um objeto da classe zumbi e exiba no console cada atributo criado.
+### 8. Crie um objeto da classe zumbi e exiba no console cada atributo criado.
 
 ```csharp
 class Zombie {
@@ -175,9 +164,7 @@ class Study {
 
 ---
 
-# 9
-
-Crie uma classe chamada zumbi_filho e faça com que ela herde da classe zumbi.
+### 9. Crie uma classe chamada zumbi_filho e faça com que ela herde da classe zumbi.
 
 ```csharp
 class Zombie {
@@ -195,9 +182,7 @@ class ZombieSon : Zombie {
 
 ---
 
-# 10
-
-Usando polimorfismo crie um método chamado andar, dentro da classe zumbi_filho e zumbi, garanta que seremos capazes de sobrescrever esse método.
+### 10. Usando polimorfismo crie um método chamado andar, dentro da classe zumbi_filho e zumbi, garanta que seremos capazes de sobrescrever esse método.
 
 ```csharp
 class Zombie {
